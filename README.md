@@ -1,5 +1,5 @@
 # Movie Spam Prank
-This project was made to prank on of my friends...because why not.
+This project was made to prank one of my friends...because why not.
 ## Running the projects
 ### System Requirements
 Need OSX and iMessages working properly on your machine
